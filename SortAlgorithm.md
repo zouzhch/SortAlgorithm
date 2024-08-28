@@ -76,10 +76,10 @@ public void swap(int[] arr， int i, int j){
     arr[j]=temp;
 }
 ```
-
-1. Heap Algorithm:
-2. Hill Algorithm:
-3. Reduction Algorithm:
-4. Bucket Algorithm:
-5. Counting Algorithm:
-6. Basic Algorithm:
+## To be continued...
+5. Heap Algorithm:
+6. Hill Algorithm:
+7. Reduction Algorithm:
+8. Bucket Algorithm:
+9. Counting Algorithm:
+10. Basic Algorithm:
